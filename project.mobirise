@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "hometown.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     "uniqCompNum": 56,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/logo-72x79-2.png",
     "noImageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -304,7 +304,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\nBox 50234<br>Bob Jones University<br>\nGreenville, SC 29614",
-          "text2": "<strong>Contacts</strong><br>\nEmail: rburc441@students.bju.edu<br>\nPhone: (540) 315 - 1922<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: rburc441@students.bju.edu<br><br><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"https://www.pinterest.com/rjbviolin/\" class=\"text-black\">Pinterest</a></li><li><a href=\"https://meritpages.com/Ruth-Johanna-Burcham/4335682\" class=\"text-black\">Merit Pages</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
